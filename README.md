@@ -1,4 +1,4 @@
-# CMS Data Analysis School Tracking and Vertexing Short Exercise
+# 2023 FNAL CMS Data Analysis School Tracking and Vertexing Short Exercise
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
